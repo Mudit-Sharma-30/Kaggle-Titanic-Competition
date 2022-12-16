@@ -5,7 +5,7 @@ Kaggle is an online community platform for data scientists and machine learning 
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-Read on or watch the video below to explore more details. Once you’re ready to start competing, click on the "Join Competition button to create an account and gain access to the competition data. Then check out Alexis Cook’s Titanic Tutorial that walks you through step by step how to make your first submission!
+Readbelow to explore more details. Once you’re ready to start competing, click on the "Join Competition button to create an account and gain access to the competition data. Then check out Alexis Cook’s Titanic Tutorial that walks you through step by step how to make your first submission!
 The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -15,22 +15,18 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 Overview of How Kaggle’s Competitions Work
-1. Join the Competition
 
+1. Join the Competition
 Read about the challenge description, accept the Competition Rules and gain access to the competition dataset.
 
 2. Get to Work
-
 Download the data, build models on it locally or on Kaggle Kernels (our no-setup, customizable Jupyter Notebooks environment with free GPUs) and generate a prediction file.
 
 3. Make a Submission
-
 Upload your prediction as a submission on Kaggle and receive an accuracy score.
 
 4. Check the Leaderboard
-
 See how your model ranks against other Kagglers on our leaderboard.
 
 5. Improve Your Score
-
 Check out the discussion forum to find lots of tutorials and insights from other competitors.
